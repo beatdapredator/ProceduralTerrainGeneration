@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Lib/freeglut-3.0.0/CMakeLists.txt
+  CMake does not need to re-run because C:\Lib\freeglut-3.0.0\Build\CMakeFiles\generate.stamp is up-to-date.
+  timer.c
+  timer_static.vcxproj -> C:\Lib\freeglut-3.0.0\Build\bin\Debug\timer_staticd.exe
+  timer_static.vcxproj -> C:/Lib/freeglut-3.0.0/Build/bin/Debug/timer_staticd.pdb (Full PDB)

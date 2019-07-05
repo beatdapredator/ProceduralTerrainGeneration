@@ -1,0 +1,29 @@
+﻿  TerrainGeneration.cpp
+e:\year 3\term 1\322com advanced graphics programming\assignement 2\terrainshaderized - texture and terrain\terraingeneration.cpp(103): warning C4091: 'static ': ignored on left of 'buffer' when no variable is declared
+e:\year 3\term 1\322com advanced graphics programming\assignement 2\terrainshaderized - texture and terrain\terraingeneration.cpp(104): warning C4091: 'static ': ignored on left of 'object' when no variable is declared
+e:\year 3\term 1\322com advanced graphics programming\assignement 2\terrainshaderized - texture and terrain\terraingeneration.cpp(163): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\year 3\term 1\322com advanced graphics programming\assignement 2\terrainshaderized - texture and terrain\terraingeneration.cpp(164): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\year 3\term 1\322com advanced graphics programming\assignement 2\terrainshaderized - texture and terrain\terraingeneration.cpp(165): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\year 3\term 1\322com advanced graphics programming\assignement 2\terrainshaderized - texture and terrain\terraingeneration.cpp(166): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\year 3\term 1\322com advanced graphics programming\assignement 2\terrainshaderized - texture and terrain\terraingeneration.cpp(177): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\year 3\term 1\322com advanced graphics programming\assignement 2\terrainshaderized - texture and terrain\terraingeneration.cpp(178): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\year 3\term 1\322com advanced graphics programming\assignement 2\terrainshaderized - texture and terrain\terraingeneration.cpp(179): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\year 3\term 1\322com advanced graphics programming\assignement 2\terrainshaderized - texture and terrain\terraingeneration.cpp(180): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\year 3\term 1\322com advanced graphics programming\assignement 2\terrainshaderized - texture and terrain\terraingeneration.cpp(191): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\year 3\term 1\322com advanced graphics programming\assignement 2\terrainshaderized - texture and terrain\terraingeneration.cpp(192): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\year 3\term 1\322com advanced graphics programming\assignement 2\terrainshaderized - texture and terrain\terraingeneration.cpp(208): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\year 3\term 1\322com advanced graphics programming\assignement 2\terrainshaderized - texture and terrain\terraingeneration.cpp(209): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\year 3\term 1\322com advanced graphics programming\assignement 2\terrainshaderized - texture and terrain\terraingeneration.cpp(221): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\year 3\term 1\322com advanced graphics programming\assignement 2\terrainshaderized - texture and terrain\terraingeneration.cpp(222): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\year 3\term 1\322com advanced graphics programming\assignement 2\terrainshaderized - texture and terrain\terraingeneration.cpp(233): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\year 3\term 1\322com advanced graphics programming\assignement 2\terrainshaderized - texture and terrain\terraingeneration.cpp(234): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\year 3\term 1\322com advanced graphics programming\assignement 2\terrainshaderized - texture and terrain\terraingeneration.cpp(245): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\year 3\term 1\322com advanced graphics programming\assignement 2\terrainshaderized - texture and terrain\terraingeneration.cpp(246): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\year 3\term 1\322com advanced graphics programming\assignement 2\terrainshaderized - texture and terrain\terraingeneration.cpp(249): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\year 3\term 1\322com advanced graphics programming\assignement 2\terrainshaderized - texture and terrain\terraingeneration.cpp(460): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+  getbmp.cpp
+e:\year 3\term 1\322com advanced graphics programming\assignement 2\terrainshaderized - texture and terrain\getbmp.cpp(22): warning C4002: too many actual parameters for macro 'assert'
+e:\year 3\term 1\322com advanced graphics programming\assignement 2\terrainshaderized - texture and terrain\getbmp.cpp(23): warning C4002: too many actual parameters for macro 'assert'
+  Generating Code...
+  TerrainShaderized.vcxproj -> E:\Year 3\Term 1\322COM Advanced Graphics Programming\Assignement 2\TerrainShaderized - Texture and terrain\Debug\TerrainShaderized.exe
+  TerrainShaderized.vcxproj -> E:\Year 3\Term 1\322COM Advanced Graphics Programming\Assignement 2\TerrainShaderized - Texture and terrain\Debug\TerrainShaderized.pdb (Partial PDB)

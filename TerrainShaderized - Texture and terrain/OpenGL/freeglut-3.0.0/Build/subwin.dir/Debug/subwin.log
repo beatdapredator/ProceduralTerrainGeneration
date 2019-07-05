@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Lib/freeglut-3.0.0/CMakeLists.txt
+  CMake does not need to re-run because C:\Lib\freeglut-3.0.0\Build\CMakeFiles\generate.stamp is up-to-date.
+  subwin.c
+  subwin.vcxproj -> C:\Lib\freeglut-3.0.0\Build\bin\Debug\subwind.exe
+  subwin.vcxproj -> C:/Lib/freeglut-3.0.0/Build/bin/Debug/subwind.pdb (Full PDB)

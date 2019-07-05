@@ -1,0 +1,3 @@
+https://youtu.be/qVjuvO1svZ8 - this is a link that shows that the code works and has lighting textures and 3D camera controls
+
+Also if the projec does not run right click on the project and change the it to v141 from v140

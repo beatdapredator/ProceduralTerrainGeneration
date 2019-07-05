@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Lib/freeglut-3.0.0/CMakeLists.txt
+  CMake does not need to re-run because C:\Lib\freeglut-3.0.0\Build\CMakeFiles\generate.stamp is up-to-date.
+  multi-touch.c
+  multi-touch.vcxproj -> C:\Lib\freeglut-3.0.0\Build\bin\Debug\multi-touchd.exe
+  multi-touch.vcxproj -> C:/Lib/freeglut-3.0.0/Build/bin/Debug/multi-touchd.pdb (Full PDB)

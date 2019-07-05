@@ -1,0 +1,5 @@
+﻿  Building Custom Rule C:/Lib/freeglut-3.0.0/CMakeLists.txt
+  CMake does not need to re-run because C:\Lib\freeglut-3.0.0\Build\CMakeFiles\generate.stamp is up-to-date.
+  smooth_opengl3.c
+  smooth_opengl3.vcxproj -> C:\Lib\freeglut-3.0.0\Build\bin\Debug\smooth_opengl3d.exe
+  smooth_opengl3.vcxproj -> C:/Lib/freeglut-3.0.0/Build/bin/Debug/smooth_opengl3d.pdb (Full PDB)

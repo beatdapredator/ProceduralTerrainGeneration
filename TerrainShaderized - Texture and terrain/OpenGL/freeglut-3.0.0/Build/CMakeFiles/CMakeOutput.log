@@ -1,0 +1,533 @@
+The system is: Windows - 6.2 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 28-Sep-17 4:06:21 PM.
+Project "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\3.2.2\CompilerIdC\CompilerIdC.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdC.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdC.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue CMakeCCompilerId.c
+  CMakeCCompilerId.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdC.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdC.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdC.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCCompilerId.obj
+  CompilerIdC.vcxproj -> C:\Lib\freeglut-3.0.0\Build\CMakeFiles\3.2.2\CompilerIdC\.\CompilerIdC.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_C_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_C_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\cl.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\CompilerIdC.tlog\unsuccessfulbuild".
+  Touching "Debug\CompilerIdC.tlog\CompilerIdC.lastbuildstate".
+Done Building Project "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\3.2.2\CompilerIdC\CompilerIdC.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.60
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CompilerIdC.vcxproj"
+
+The C compiler identification is MSVC, found in "C:/Lib/freeglut-3.0.0/Build/CMakeFiles/3.2.2/CompilerIdC/CompilerIdC.exe"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler:  
+Build flags: 
+Id flags: 
+
+The output was:
+0
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 28-Sep-17 4:06:22 PM.
+Project "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\3.2.2\CompilerIdCXX\CompilerIdCXX.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "Debug\".
+  Creating directory "Debug\CompilerIdCXX.tlog\".
+InitializeBuildStatus:
+  Creating "Debug\CompilerIdCXX.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /nologo /W0 /WX- /Od /Oy- /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue CMakeCXXCompilerId.cpp
+  CMakeCXXCompilerId.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:".\CompilerIdCXX.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /PDB:".\CompilerIdCXX.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\CompilerIdCXX.lib" /MACHINE:X86 /SAFESEH Debug\CMakeCXXCompilerId.obj
+  CompilerIdCXX.vcxproj -> C:\Lib\freeglut-3.0.0\Build\CMakeFiles\3.2.2\CompilerIdCXX\.\CompilerIdCXX.exe
+PostBuildEvent:
+  for %%i in (cl.exe) do @echo CMAKE_CXX_COMPILER=%%~$PATH:i
+  :VCEnd
+  CMAKE_CXX_COMPILER=C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\cl.exe
+FinalizeBuildStatus:
+  Deleting file "Debug\CompilerIdCXX.tlog\unsuccessfulbuild".
+  Touching "Debug\CompilerIdCXX.tlog\CompilerIdCXX.lastbuildstate".
+Done Building Project "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\3.2.2\CompilerIdCXX\CompilerIdCXX.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.60
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.exe"
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "CompilerIdCXX.vcxproj"
+
+The CXX compiler identification is MSVC, found in "C:/Lib/freeglut-3.0.0/Build/CMakeFiles/3.2.2/CompilerIdCXX/CompilerIdCXX.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTryCompileExec2235951141.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 28-Sep-17 4:06:23 PM.
+Project "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\cmTryCompileExec2235951141.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec2235951141.dir\Debug\".
+  Creating directory "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec2235951141.dir\Debug\cmTryCom.9D5A40B5.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec2235951141.dir\Debug\cmTryCom.9D5A40B5.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTryCompileExec2235951141.dir\Debug\\" /Fd"cmTryCompileExec2235951141.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\testCCompiler.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTryCompileExec2235951141.dir\Debug\\" /Fd"cmTryCompileExec2235951141.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\testCCompiler.c"
+  
+  testCCompiler.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2235951141.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2235951141.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2235951141.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec2235951141.dir\Debug\testCCompiler.obj
+  cmTryCompileExec2235951141.vcxproj -> C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2235951141.exe
+  cmTryCompileExec2235951141.vcxproj -> C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2235951141.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTryCompileExec2235951141.dir\Debug\cmTryCom.9D5A40B5.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec2235951141.dir\Debug\cmTryCom.9D5A40B5.tlog\cmTryCompileExec2235951141.lastbuildstate".
+Done Building Project "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\cmTryCompileExec2235951141.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.70
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTryCompileExec3321349148.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 28-Sep-17 4:06:24 PM.
+Project "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\cmTryCompileExec3321349148.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec3321349148.dir\Debug\".
+  Creating directory "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec3321349148.dir\Debug\cmTryCom.4469C8D3.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec3321349148.dir\Debug\cmTryCom.4469C8D3.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTryCompileExec3321349148.dir\Debug\\" /Fd"cmTryCompileExec3321349148.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCCompilerABI.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTryCompileExec3321349148.dir\Debug\\" /Fd"cmTryCompileExec3321349148.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCCompilerABI.c"
+  
+  CMakeCCompilerABI.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3321349148.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3321349148.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3321349148.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec3321349148.dir\Debug\CMakeCCompilerABI.obj
+  cmTryCompileExec3321349148.vcxproj -> C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3321349148.exe
+  cmTryCompileExec3321349148.vcxproj -> C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3321349148.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTryCompileExec3321349148.dir\Debug\cmTryCom.4469C8D3.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec3321349148.dir\Debug\cmTryCom.4469C8D3.tlog\cmTryCompileExec3321349148.lastbuildstate".
+Done Building Project "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\cmTryCompileExec3321349148.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.75
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTryCompileExec906261686.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 28-Sep-17 4:06:25 PM.
+Project "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\cmTryCompileExec906261686.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec906261686.dir\Debug\".
+  Creating directory "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec906261686.dir\Debug\cmTryCom.4B60F90F.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec906261686.dir\Debug\cmTryCom.4B60F90F.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTryCompileExec906261686.dir\Debug\\" /Fd"cmTryCompileExec906261686.dir\Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTryCompileExec906261686.dir\Debug\\" /Fd"cmTryCompileExec906261686.dir\Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\testCXXCompiler.cxx"
+  
+  testCXXCompiler.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec906261686.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec906261686.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec906261686.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec906261686.dir\Debug\testCXXCompiler.obj
+  cmTryCompileExec906261686.vcxproj -> C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec906261686.exe
+  cmTryCompileExec906261686.vcxproj -> C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec906261686.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTryCompileExec906261686.dir\Debug\cmTryCom.4B60F90F.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec906261686.dir\Debug\cmTryCom.4B60F90F.tlog\cmTryCompileExec906261686.lastbuildstate".
+Done Building Project "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\cmTryCompileExec906261686.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.70
+
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTryCompileExec3512655269.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 28-Sep-17 4:06:26 PM.
+Project "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\cmTryCompileExec3512655269.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec3512655269.dir\Debug\".
+  Creating directory "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec3512655269.dir\Debug\cmTryCom.3874524B.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec3512655269.dir\Debug\cmTryCom.3874524B.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTryCompileExec3512655269.dir\Debug\\" /Fd"cmTryCompileExec3512655269.dir\Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCXXCompilerABI.cpp"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTryCompileExec3512655269.dir\Debug\\" /Fd"cmTryCompileExec3512655269.dir\Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Program Files (x86)\CMake\share\cmake-3.2\Modules\CMakeCXXCompilerABI.cpp"
+  
+  CMakeCXXCompilerABI.cpp
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3512655269.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3512655269.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3512655269.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec3512655269.dir\Debug\CMakeCXXCompilerABI.obj
+  cmTryCompileExec3512655269.vcxproj -> C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec3512655269.exe
+  cmTryCompileExec3512655269.vcxproj -> C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec3512655269.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTryCompileExec3512655269.dir\Debug\cmTryCom.3874524B.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec3512655269.dir\Debug\cmTryCom.3874524B.tlog\cmTryCompileExec3512655269.lastbuildstate".
+Done Building Project "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\cmTryCompileExec3512655269.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.82
+
+
+
+
+Detecting CXX [] compiler features compiled with the following output:
+Change Dir: C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTryCompileExec782012484.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 28-Sep-17 4:06:27 PM.
+Project "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\cmTryCompileExec782012484.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec782012484.dir\Debug\".
+  Creating directory "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec782012484.dir\Debug\cmTryCom.AD889FBD.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec782012484.dir\Debug\cmTryCom.AD889FBD.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTryCompileExec782012484.dir\Debug\\" /Fd"cmTryCompileExec782012484.dir\Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\feature_tests.cxx"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /GR /Fo"cmTryCompileExec782012484.dir\Debug\\" /Fd"cmTryCompileExec782012484.dir\Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:queue "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\feature_tests.cxx"
+  
+  feature_tests.cxx
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec782012484.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec782012484.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec782012484.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec782012484.dir\Debug\feature_tests.obj
+  cmTryCompileExec782012484.vcxproj -> C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec782012484.exe
+  cmTryCompileExec782012484.vcxproj -> C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec782012484.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTryCompileExec782012484.dir\Debug\cmTryCom.AD889FBD.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec782012484.dir\Debug\cmTryCom.AD889FBD.tlog\cmTryCompileExec782012484.lastbuildstate".
+Done Building Project "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\cmTryCompileExec782012484.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.75
+
+
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:1cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:1cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:1cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_return_type_deduction
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
+Determining if files sys/types.h exist passed with the following output:
+Change Dir: C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTryCompileExec2470691111.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 28-Sep-17 4:06:28 PM.
+Project "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\cmTryCompileExec2470691111.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec2470691111.dir\Debug\".
+  Creating directory "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec2470691111.dir\Debug\cmTryCom.3CE323F9.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec2470691111.dir\Debug\cmTryCom.3CE323F9.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTryCompileExec2470691111.dir\Debug\\" /Fd"cmTryCompileExec2470691111.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTryCompileExec2470691111.dir\Debug\\" /Fd"cmTryCompileExec2470691111.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  
+  CheckIncludeFiles.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2470691111.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2470691111.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2470691111.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec2470691111.dir\Debug\CheckIncludeFiles.obj
+  cmTryCompileExec2470691111.vcxproj -> C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec2470691111.exe
+  cmTryCompileExec2470691111.vcxproj -> C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec2470691111.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTryCompileExec2470691111.dir\Debug\cmTryCom.3CE323F9.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec2470691111.dir\Debug\cmTryCom.3CE323F9.tlog\cmTryCompileExec2470691111.lastbuildstate".
+Done Building Project "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\cmTryCompileExec2470691111.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.81
+
+
+Determining if files stdbool.h exist passed with the following output:
+Change Dir: C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTryCompileExec1906960611.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 28-Sep-17 4:06:30 PM.
+Project "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\cmTryCompileExec1906960611.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec1906960611.dir\Debug\".
+  Creating directory "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec1906960611.dir\Debug\cmTryCom.F20EE8FC.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec1906960611.dir\Debug\cmTryCom.F20EE8FC.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTryCompileExec1906960611.dir\Debug\\" /Fd"cmTryCompileExec1906960611.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTryCompileExec1906960611.dir\Debug\\" /Fd"cmTryCompileExec1906960611.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  
+  CheckIncludeFiles.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1906960611.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1906960611.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1906960611.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec1906960611.dir\Debug\CheckIncludeFiles.obj
+  cmTryCompileExec1906960611.vcxproj -> C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec1906960611.exe
+  cmTryCompileExec1906960611.vcxproj -> C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec1906960611.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTryCompileExec1906960611.dir\Debug\cmTryCom.F20EE8FC.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec1906960611.dir\Debug\cmTryCom.F20EE8FC.tlog\cmTryCompileExec1906960611.lastbuildstate".
+Done Building Project "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\cmTryCompileExec1906960611.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.81
+
+
+Determining if files fcntl.h exist passed with the following output:
+Change Dir: C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTryCompileExec4158503364.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 28-Sep-17 4:06:32 PM.
+Project "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\cmTryCompileExec4158503364.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec4158503364.dir\Debug\".
+  Creating directory "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec4158503364.dir\Debug\cmTryCom.0109CAA3.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec4158503364.dir\Debug\cmTryCom.0109CAA3.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTryCompileExec4158503364.dir\Debug\\" /Fd"cmTryCompileExec4158503364.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTryCompileExec4158503364.dir\Debug\\" /Fd"cmTryCompileExec4158503364.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  
+  CheckIncludeFiles.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec4158503364.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec4158503364.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec4158503364.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec4158503364.dir\Debug\CheckIncludeFiles.obj
+  cmTryCompileExec4158503364.vcxproj -> C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec4158503364.exe
+  cmTryCompileExec4158503364.vcxproj -> C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec4158503364.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTryCompileExec4158503364.dir\Debug\cmTryCom.0109CAA3.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec4158503364.dir\Debug\cmTryCom.0109CAA3.tlog\cmTryCompileExec4158503364.lastbuildstate".
+Done Building Project "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\cmTryCompileExec4158503364.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.75
+
+
+Determining if files stdint.h exist passed with the following output:
+Change Dir: C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTryCompileExec739371800.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 28-Sep-17 4:06:35 PM.
+Project "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\cmTryCompileExec739371800.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec739371800.dir\Debug\".
+  Creating directory "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec739371800.dir\Debug\cmTryCom.D3F387AF.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec739371800.dir\Debug\cmTryCom.D3F387AF.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTryCompileExec739371800.dir\Debug\\" /Fd"cmTryCompileExec739371800.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTryCompileExec739371800.dir\Debug\\" /Fd"cmTryCompileExec739371800.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  
+  CheckIncludeFiles.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec739371800.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec739371800.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec739371800.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec739371800.dir\Debug\CheckIncludeFiles.obj
+  cmTryCompileExec739371800.vcxproj -> C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec739371800.exe
+  cmTryCompileExec739371800.vcxproj -> C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec739371800.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTryCompileExec739371800.dir\Debug\cmTryCom.D3F387AF.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec739371800.dir\Debug\cmTryCom.D3F387AF.tlog\cmTryCompileExec739371800.lastbuildstate".
+Done Building Project "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\cmTryCompileExec739371800.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.71
+
+
+Determining if files inttypes.h exist passed with the following output:
+Change Dir: C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp
+
+Run Build Command:"C:/Program Files (x86)/MSBuild/14.0/bin/MSBuild.exe" "cmTryCompileExec546750517.vcxproj" "/p:Configuration=Debug" "/p:VisualStudioVersion=14.0"
+Microsoft (R) Build Engine version 14.0.25420.1
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Build started 28-Sep-17 4:06:36 PM.
+Project "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\cmTryCompileExec546750517.vcxproj" on node 1 (default targets).
+PrepareForBuild:
+  Creating directory "cmTryCompileExec546750517.dir\Debug\".
+  Creating directory "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\Debug\".
+  Creating directory "cmTryCompileExec546750517.dir\Debug\cmTryCom.25671C5B.tlog\".
+InitializeBuildStatus:
+  Creating "cmTryCompileExec546750517.dir\Debug\cmTryCom.25671C5B.tlog\unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTryCompileExec546750517.dir\Debug\\" /Fd"cmTryCompileExec546750517.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x86
+  Copyright (C) Microsoft Corporation.  All rights reserved.
+  
+  cl /c /Zi /W3 /WX- /Od /Ob0 /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D "CMAKE_INTDIR=\"Debug\"" /D _MBCS /Gm- /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"cmTryCompileExec546750517.dir\Debug\\" /Fd"cmTryCompileExec546750517.dir\Debug\vc140.pdb" /Gd /TC /analyze- /errorReport:queue "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\CheckIncludeFiles.c"
+  
+  CheckIncludeFiles.c
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:QUEUE /OUT:"C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec546750517.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec546750517.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec546750517.lib" /MACHINE:X86 /SAFESEH  /machine:X86 /debug cmTryCompileExec546750517.dir\Debug\CheckIncludeFiles.obj
+  cmTryCompileExec546750517.vcxproj -> C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\Debug\cmTryCompileExec546750517.exe
+  cmTryCompileExec546750517.vcxproj -> C:/Lib/freeglut-3.0.0/Build/CMakeFiles/CMakeTmp/Debug/cmTryCompileExec546750517.pdb (Full PDB)
+FinalizeBuildStatus:
+  Deleting file "cmTryCompileExec546750517.dir\Debug\cmTryCom.25671C5B.tlog\unsuccessfulbuild".
+  Touching "cmTryCompileExec546750517.dir\Debug\cmTryCom.25671C5B.tlog\cmTryCompileExec546750517.lastbuildstate".
+Done Building Project "C:\Lib\freeglut-3.0.0\Build\CMakeFiles\CMakeTmp\cmTryCompileExec546750517.vcxproj" (default targets).
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:00.71
+
+
